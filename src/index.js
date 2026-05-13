@@ -6,3 +6,4 @@ function sumar() {
 
   document.getElementById("resultado").innerText = "Resultado: " + resultado;
 }
+//prueba
